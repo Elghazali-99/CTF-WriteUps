@@ -1,7 +1,7 @@
 # /bin/bash Challenge
 ## Challenge description
-Yaaay I got a shell!
-Wait there's no ls, no cat, just /bin/bash !!
+> Yaaay I got a shell!
+> Wait there's no ls, no cat, just /bin/bash !!
 ## Solution
 only  bash shell ? so lets try this script that reads a file
 ```
